@@ -1,0 +1,87 @@
+.wel_side {
+  width: 18%;
+  float: left;
+  position: fixed;
+  overflow: scroll;
+  color: white;
+}
+.wel_banner {
+  font-size: xx-large;
+  background-color: black;
+  padding: 100px;
+  height: 275px;
+  color: whitesmoke;
+  text-align: center;
+  font-family: IBM Plex Sans VF, Helvetica Neue, Arial, sans-serif;
+}
+.wel-mid {
+  padding: 0px;
+  width: 82%;
+  float: right;
+  text-align: center;
+}
+.wel-main {
+  background-color: white;
+  padding: 50px;
+  font-family: IBM Plex Sans VF, Helvetica Neue, Arial, sans-serif;
+}
+.inbox {
+  max-width: 300px;
+  min-width: 250px;
+  height: 100px;
+  margin: 20px;
+  color: black;
+  text-align: left;
+}
+.bxcntr {
+  display: flex;
+  text-align: center;
+  justify-content: left;
+}
+.Markdown-module--paragraph--1xZR9 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+  padding-left: 3rem;
+  padding-right: 1rem;
+  text-align: left;
+}
+.Main-module--padded--1EKjR {
+  min-height: calc(100vh - 40rem);
+  padding-top: 80px;
+  padding-bottom: 10rem;
+}
+bx--row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+Markdown-module--list-item--32ShB {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+  padding-right: 0;
+  width: 100%;
+  margin-left: 1rem;
+  padding-left: 0.25rem;
+}
+.tab {
+  background-color: black;
+  padding: 20px;
+  height: 10px;
+}
+.bx--tabs__nav-link {
+  color: #c3c3c3;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.125rem;
+  letter-spacing: 0.16px;
+  border-bottom: 3px solid #0062ff;
+}
+.list-style {
+  text-align: left;
+  padding: 3px;
+}
